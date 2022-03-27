@@ -4,7 +4,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>
 </p>-->
 
-<h3 align="center"> 👋 Hi there 👋 <br>
+<h3 align="left"> 👋 Hi there 👋 <br>
 I'm JeongHa Lee, a growing developer
 </h3>
 
@@ -16,9 +16,9 @@ I'm JeongHa Lee, a growing developer
 
 
 <br>
-<h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>
+<h3 align="left"> 🛠️ Tech Stack 🛠️ </h3>
 
-<p align="center"> 
+<p align="left"> 
   Techs that I've used at least once <br><br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
@@ -32,9 +32,9 @@ I'm JeongHa Lee, a growing developer
 </p>
 
 <br>
-<h3 align="center"> 🍒 ME 🍒 </h3> 
+<h3 align="left"> 🍒 About ME 🍒 </h3> 
 
-<p align="center"> 
+<p align="left"> 
   <!--<a href="https://velog.io/링크"><img src="https://img.shields.io/badge/Velog-3766AB?style=flat-square&logo=Vimeo&logoColor=white&color=57CC99&link=내링크"/>&nbsp -->
   <a href="mailto:l03jeongha@gmail.com"><img src="https://img.shields.io/badge/Gmail-3766AB?style=flat-square&logo=Gmail&logoColor=white&color=9B0000&link=l03jeongha@gmail.com"/>&nbsp 
   <!--<a href="https://www.youtube.com/channel/링크"><img src="https://img.shields.io/badge/YouTube-3766AB?style=flat-square&logo=YouTube&logoColor=white&color=CD1818&link=내링크"/>&nbsp -->
