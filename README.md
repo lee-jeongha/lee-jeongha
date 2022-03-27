@@ -14,7 +14,7 @@ I'm JeongHa Lee, a growing developer
   ✍2022.03~ Ph.D in Computher Science and Engineering at Ewha W. Univ.
 </p>
 |            **Type**           |  **Date**  |            **Contents**           |  **Organization**  |
-|:-----------------------------:|:----------:|:---------------------------------:|:------------------:|
+| ----------------------------- | ---------- | --------------------------------- | ------------------ |
 | **🎓 Bachelor of Engineering** |  ~ 2022.02 | Computher Science and Engineering | Ewha W. University |
 |           **✍ Ph.D**          | 2022.03 ~  | Computher Science and Engineering | Ewha W. University |
 |                               |            |                                   |                    |
