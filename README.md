@@ -8,11 +8,11 @@
 I'm JeongHa Lee, a growing developer
 </h3>
 
-<!--<br>
-<p align="center"> 
+<br>
+<p> 
   🎓2022.02 Bachelor of Engineering in Computher Science and Engineering at Ewha W. Univ.<br>
   ✍2022.03~ Ph.D in Computher Science and Engineering at Ewha W. Univ.
-</p>-->
+</p>
 
 <br>
 <h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>
@@ -41,3 +41,5 @@ I'm JeongHa Lee, a growing developer
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=FDDD89&height=120&section=footer&animation=fadeIn)
+
+[![lee-jeongha's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-jeongha)](https://github.com/lee-jeongha/github-readme-stats)
