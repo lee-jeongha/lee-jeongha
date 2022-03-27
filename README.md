@@ -8,19 +8,12 @@
 I'm JeongHa Lee, a growing developer
 </h3>
 
-<br>
-| **Type** | **Date** | **Contents** | **Organization** |
-| :--------: | :--------: | :--------: | :--------: |
-| **🎓 Bachelor of Engineering** |  ~ 2022.02 | Computher Science and Engineering | Ewha W. University |
-| **✍ Ph.D** | 2022.03 ~  | Computher Science and Engineering | Ewha W. University |
-| - | - | - | - |
+      | **Type** | **Date** | **Contents** | **Organization** |
+      | :--------: | :--------: | :--------: | :--------: |
+      | **🎓 Bachelor of Engineering** |  ~ 2022.02 | Computher Science and Engineering | Ewha W. University |
+      | **✍ Ph.D** | 2022.03 ~  | Computher Science and Engineering | Ewha W. University |
+      |  |  |  |  |
 
-<div align="center">
-COLUMN&nbsp;&nbsp;&nbsp;1 |  COLUMN 2   
-| :---:  | ---: |
-| center | right |
-
-</div>
 
 <br>
 <h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>
