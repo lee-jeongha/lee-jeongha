@@ -8,11 +8,11 @@
 I'm JeongHa Lee, a growing developer
 </h3>
 
-<p align="center"></p>| **Type** | **Date** | **Contents** | **Organization** |
-<p align="center"></p>| :--------: | :--------: | :--------: | :--------: |
-<p align="center"></p>| **🎓 Bachelor of Engineering** |  ~ 2022.02 | Computher Science and Engineering | Ewha W. University |
-<p align="center"></p>| **✍ Ph.D** | 2022.03 ~  | Computher Science and Engineering | Ewha W. University |
-<p align="center"></p>|  |  |  |  |
+| **Type** | **Date** | **Contents** | **Organization** |
+| :--------: | :--------: | :--------: | :--------: |
+| **🎓 Bachelor of Engineering** |  ~ 2022.02 | Computher Science and Engineering | Ewha W. University |
+| **✍ Ph.D** | 2022.03 ~  | Computher Science and Engineering | Ewha W. University |
+|  |  |  |  |
 
 
 <br>
