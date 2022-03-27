@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FC9090&height=250&section=header&text=LEE,JeongHa&fontColor=595457&fontAlignX=45&fontAlignY=52&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FC9090&height=230&section=header&text=LEE,JeongHa&fontColor=595457&fontAlignX=45&fontAlignY=45&fontSize=70&animation=fadeIn)
 
 <!--<p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>
@@ -14,7 +14,7 @@ I'm JeongHa Lee, a growing developer
   ✍2022.03~ Ph.D in Computher Science and Engineering at Ewha W. Univ.
 </p>
 
-<br><br>
+<br>
 <h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>
 
 <p align="center"> 
@@ -30,7 +30,7 @@ I'm JeongHa Lee, a growing developer
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=orange&color=E8E1D9"/>&nbsp   
 </p>
 
-<br><br>
+<br>
 <h3 align="center"> 🍒 ME 🍒 </h3> 
 
 <p align="center"> 
@@ -39,5 +39,6 @@ I'm JeongHa Lee, a growing developer
   <!--<a href="https://www.youtube.com/channel/링크"><img src="https://img.shields.io/badge/YouTube-3766AB?style=flat-square&logo=YouTube&logoColor=white&color=CD1818&link=내링크"/>&nbsp -->
   <a href="https://www.linkedin.com/in/jeongha-lee-1b9453235/"><img src="https://img.shields.io/badge/LinkedIn-3766AB?style=flat-square&logo=LinkedIn&logoColor=white&color=0A66C2&link=https://www.linkedin.com/in/jeongha-lee-1b9453235/"/>&nbsp 
 </p>
-  
-![footer](https://capsule-render.vercel.app/api?type=soft&color=FDDD89&height=120&section=footer&animation=fadeIn)
+
+<br>
+![footer](https://capsule-render.vercel.app/api?type=soft&color=FDDD89&height=90&section=footer&animation=fadeIn)
