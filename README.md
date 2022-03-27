@@ -8,11 +8,11 @@
 I'm JeongHa Lee, a growing developer
 </h3>
 
-<br>
+<!--<br>
 <p align="center"> 
   🎓2022.02 Bachelor of Engineering in Computher Science and Engineering at Ewha W. Univ.<br>
   ✍2022.03~ Ph.D in Computher Science and Engineering at Ewha W. Univ.
-</p>
+</p>-->
 
 <br>
 <h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>
