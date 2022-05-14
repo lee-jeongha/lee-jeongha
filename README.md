@@ -15,13 +15,6 @@
 | **✍ Ph.D student** | 2022.03 ~  | Computher Science and Engineering | Ewha W. University |
 |  |  |  |  |
 
-<h2 align="left"> 📈 My GitHub Stat 📈 </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lee-jeongha&show_icons=true" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-jeongha&layout=compact&langs_count=8&card_width=260&exclude_repo=lee-jeongha.github.io,quickstart-datalake-47lining" />
-</a>
-
-
 <br>
 <h2 align="left"> 🛠️ Tech Stack 🛠️ </h2>
 
@@ -36,6 +29,14 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=orange&color=E8E1D9"/>&nbsp   
 </p>
+
+<br>
+<h2 align="left"> 📈 My GitHub Stat 📈 </h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lee-jeongha&show_icons=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-jeongha&layout=compact&langs_count=8&card_width=260&exclude_repo=lee-jeongha.github.io,quickstart-datalake-47lining" />
+</a>
 
 <br>
 <h2 align="left"> 🍒 About ME 🍒 </h2> 
