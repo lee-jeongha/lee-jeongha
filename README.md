@@ -15,6 +15,12 @@
 | **✍ Ph.D student** | 2022.03 ~  | Computher Science and Engineering | Ewha W. University |
 |  |  |  |  |
 
+<h2 align="left"> 📈 My GitHub Stat 📈 </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lee-jeongha&show_icons=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-jeongha&layout=compact&langs_count=8&card_width=260&exclude_repo=lee-jeongha.github.io,quickstart-datalake-47lining" />
+</a>
+
 
 <br>
 <h2 align="left"> 🛠️ Tech Stack 🛠️ </h2>
@@ -44,4 +50,3 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFCC5C&height=120&section=footer&animation=fadeIn)
 
-[![lee-jeongha's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-jeongha)](https://github.com/anuraghazra/github-readme-stats)
